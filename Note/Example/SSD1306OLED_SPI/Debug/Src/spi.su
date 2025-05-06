@@ -1,0 +1,7 @@
+../Src/spi.c:14:6:OLED_SPI_Pins_Init	4	static
+../Src/spi.c:30:6:OLED_SPI_Configure	4	static
+../Src/spi.c:61:6:OLED_SPI_Write	24	static
+../Src/spi.c:87:6:OLED_Select	4	static
+../Src/spi.c:94:6:OLED_Deselect	4	static
+../Src/spi.c:99:6:OLED_DataMode	4	static
+../Src/spi.c:104:6:OLED_CommMode	4	static
