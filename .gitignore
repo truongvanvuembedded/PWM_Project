@@ -1,0 +1,11 @@
+# Build output
+Debug/
+Release/
+
+# Eclipse / STM32CubeIDE
+.settings/
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
